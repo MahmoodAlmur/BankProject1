@@ -1,0 +1,4 @@
+﻿  BankProject_ClientsInterface.cpp
+C:\Users\User\Desktop\BankProject_ClientsInterface\BankProject_ClientsInterface.cpp(42,26): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\User\Desktop\BankProject_ClientsInterface\BankProject_ClientsInterface.cpp(203,1): warning C4715: 'DepositBalanceToClientByAccountNumber': not all control paths return a value
+  BankProject_ClientsInterface.vcxproj -> C:\Users\User\Desktop\BankProject_ClientsInterface\x64\Debug\BankProject_ClientsInterface.exe
